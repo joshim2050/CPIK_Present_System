@@ -22,4 +22,18 @@
     <color name="transparentGrey">#8f737373 </color>
     <color name="DarkGrey">#737373 </color>
     <color name="Black">#000 </color>
+
+    // new color code
+
+    <color name="colorPurple">#983CFF</color>
+    <color name="colorPurpleT">#64983cff</color>
+    <color name="colorBlue">#2FB4FF</color>
+    <color name="colorBlueT">#642fb4ff</color>
+
+    <color name="backgroundColor">#219151</color>
+    <color name="backgroundColor2">#1b7843</color>
+
+    <color name="transparent_primary">#6428b364</color>
+
+
 </resources>

@@ -24,6 +24,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
 
+
     implementation 'com.android.support.constraint:constraint-layout:2.0.0-beta2'
     //Android Support Design Library
     //noinspection GradleCompatible
@@ -32,6 +33,11 @@ dependencies {
     implementation 'com.android.support:cardview-v7:28.0.0'
     //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:28.0.0'
+
+    // added new library..
+    implementation 'com.loopeer.lib:shadow:0.0.4-beta3'
+    implementation 'de.hdodenhof:circleimageview:3.0.0'
+    implementation 'com.wang.avi:library:2.1.3'
 
     implementation 'com.google.firebase:firebase-firestore:17.1.2'
     implementation 'com.google.firebase:firebase-core:16.0.4'
@@ -44,4 +50,7 @@ dependencies {
 
     // implementation 'com.google.firebase:firebase-core:17.0.0'
     // implementation 'com.google.firebase:firebase-firestore:20.0.0'
+
+
+
 }

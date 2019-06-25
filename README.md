@@ -5,3 +5,5 @@ it will be Update time to time
 User Email = maruf@mb.dev
 User Password= maruf@mb.dev
 to sign IN this Apk
+personal comment by Joshim
+Auth Layout have been chenged
